@@ -1,1 +1,1 @@
-Second Text
+added new text to my_second.txt
